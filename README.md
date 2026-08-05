@@ -1,14 +1,13 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D2FF&height=200&section=header&text=Ho%20Ngoc%20Chinh&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D2FF&height=200&section=header&text=Ho%20Ngoc%20Chinh&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Fullstack%20Developer%20Intern%20%7C%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;React+%2B+Node.js+%2B+MongoDB+Developer;Clean+Code+%E2%80%A2+Scalable+Architecture;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chinhcodelo.github.io-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://chinhcodelo.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-chinhcodelo-181717?style=for-the-badge&logo=github)](https://github.com/chinhcodelo)
 [![Email](https://img.shields.io/badge/Email-ngocchinhh01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngocchinhh01@gmail.com)
 
@@ -21,16 +20,15 @@
 ```javascript
 const chinh = {
     pronouns: "He/Him",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
+    location: "Ha Noi, Vietnam 🇻🇳",
     education: "B.Sc. Information Technology — HUIT",
-    role: "Fullstack Developer",
+    role: "Fullstack Developer Intern",
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
-- 🚀 Check out my **[Portfolio Website](https://chinhcodelo.github.io)** — a showcase of my best work
-- 🔭 Currently working on **[TaskFlow](https://github.com/chinhcodelo/taskflow)** — A Kanban Project Management Platform
+- 🔭 Working on **7 open-source projects** across fullstack, ERP, chat, and e-commerce
 - 🌱 Learning **Docker**, **CI/CD**, and **Cloud Deployment**
 - 💡 Interested in **Blockchain/Web3**, **System Design**, and **DevOps**
 - 📫 Reach me at **ngocchinhh01@gmail.com**
@@ -46,26 +44,24 @@ const chinh = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Meteor](https://img.shields.io/badge/Meteor-000000?style=for-the-badge&logo=meteor&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -80,11 +76,14 @@ const chinh = {
 
 <div align="center">
 
-<a href="https://github.com/chinhcodelo/taskflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chinhcodelo&repo=taskflow&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/chinhcodelo/gocart-ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chinhcodelo&repo=gocart-ecommerce&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
-<a href="https://github.com/chinhcodelo/Web3-Learn-Huit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chinhcodelo&repo=Web3-Learn-Huit&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/chinhcodelo/chat-engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chinhcodelo&repo=chat-engine&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/chinhcodelo/task-hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chinhcodelo&repo=task-hub&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
@@ -93,8 +92,13 @@ const chinh = {
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| 🚀 **[TaskFlow](https://github.com/chinhcodelo/taskflow)** | Fullstack Kanban Project Management Platform | React, TypeScript, Node.js, MongoDB, Docker |
-| 🌐 **[Web3-Learn-Huit](https://github.com/chinhcodelo/Web3-Learn-Huit)** | Blockchain Learn-to-Earn Education Platform | React, Node.js, Web3.js, Smart Contracts |
+| 🛒 **[GoCart](https://github.com/chinhcodelo/gocart-ecommerce)** | Multi-Vendor E-Commerce Platform | Next.js, TypeScript, Prisma, PostgreSQL |
+| 💬 **[Chat Engine](https://github.com/chinhcodelo/chat-engine)** | Real-Time Team Communication | Meteor, TypeScript, MongoDB, WebRTC |
+| 📋 **[Task Hub](https://github.com/chinhcodelo/task-hub)** | Project Management Platform | React, Redux, Prisma, PostgreSQL |
+| 🩸 **[Blood Bank](https://github.com/chinhcodelo/blood-bank-system)** | Blood Donation Management System | React, Node.js, Express, MongoDB |
+| 🏭 **[ERPNext Suite](https://github.com/chinhcodelo/erpnext-suite)** | Open Source ERP System | Python, Frappe, MariaDB, Docker |
+| 🔧 **[Budibase](https://github.com/chinhcodelo/budibase-platform)** | Low-Code Business Apps Platform | Svelte, TypeScript, CouchDB, Redis |
+| 🌐 **[Web3 Learn](https://github.com/chinhcodelo/learn-by-building)** | Programming Tutorials Collection | Multi-Language, Project-Based |
 
 ---
 
@@ -123,47 +127,13 @@ const chinh = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinhcodelo&theme=tokyo-night&hide_border=true&area=true&radius=10" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinhcodelo/chinhcodelo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinhcodelo/chinhcodelo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chinhcodelo/chinhcodelo/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=chinhcodelo&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
-**⭐ From [chinhcodelo](https://github.com/chinhcodelo) — Made with ❤️ in Ho Chi Minh City, Vietnam**
+**⭐ From [chinhcodelo](https://github.com/chinhcodelo) — Made with ❤️ in Ha Noi, Vietnam**
 
 </div>
 
