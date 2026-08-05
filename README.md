@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-chinhcodelo.github.io-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://chinhcodelo.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-chinhcodelo-181717?style=for-the-badge&logo=github)](https://github.com/chinhcodelo)
 [![Email](https://img.shields.io/badge/Email-ngocchinhh01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngocchinhh01@gmail.com)
 
@@ -28,6 +29,7 @@ const chinh = {
 };
 ```
 
+- 🚀 Check out my **[Portfolio Website](https://chinhcodelo.github.io)** — a showcase of my best work
 - 🔭 Currently working on **[TaskFlow](https://github.com/chinhcodelo/taskflow)** — A Kanban Project Management Platform
 - 🌱 Learning **Docker**, **CI/CD**, and **Cloud Deployment**
 - 💡 Interested in **Blockchain/Web3**, **System Design**, and **DevOps**
